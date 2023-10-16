@@ -1,0 +1,15 @@
+name = "GamersAdvanced"
+author = "Gamers"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+
+[versions]
+forge = "43.3.5"
+minecraft = "1.19.2"
+
+[options]
+no-internal-hashes = "true"
