@@ -19,6 +19,9 @@ file = "config/fancymenu/resources/logo.png"
 file = "config/quark-common.toml"
 
 [[files]]
+file = "config/sanitydim/default.toml"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 
 [[files]]
@@ -41,6 +44,10 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
 metafile = true
 
 [[files]]
@@ -164,6 +171,10 @@ file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-additions.pw.toml"
 metafile = true
 
@@ -197,6 +208,10 @@ metafile = true
 
 [[files]]
 file = "mods/otyacraft-engine.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/passive-skill-tree.pw.toml"
 metafile = true
 
 [[files]]

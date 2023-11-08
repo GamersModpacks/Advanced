@@ -50,7 +50,7 @@ hash = "1da313ac222f86983f5ccafdd363c7a1798f9c2f1590f36076c3336cc2567b8b"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "b45797d90db2afd67a86419a01b891ad09b6fe163fce9b06e2687683fff57113"
+hash = "5fa1aa1574c6f7f80eea8ce7101f1c35e157fbd6df6f4eaee4245dfe12ad4039"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
@@ -70,7 +70,7 @@ hash = "97e521e39690dad715d73c8f030cda1aff0801983665d27791893ab26fa3e7cd"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "eab9e4d2f8b49f1ad12118cadce29fd9228731c48969c710e00487c07fe91526"
+hash = "d265174c8cbe65154c44db1bc470e6b99cf36185a17d0136728e28c89d6b8f7f"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -145,6 +145,10 @@ file = "config/quark-common.toml"
 hash = "10e8e73ba6d165f7fe0bd2a29f6a03025a21ac0f3cf649d7320ce25a900f22ea"
 
 [[files]]
+file = "config/sanitydim/default.toml"
+hash = "0f685590516517ca2cf4a6f9b7e8eaebb55763b7ea7f0c5f3f972982aac56392"
+
+[[files]]
 file = "config/supplementaries-client.toml"
 hash = "e0a32c92f8a44046eaf90a09625aeb11eaacaab3286b59fcf78b2baaa30fa3cd"
 
@@ -196,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "a5823eed363dcbf221b6d0e919b111f0a5676338967a2a599c7cb948ca24223d"
 metafile = true
 
 [[files]]
@@ -374,6 +383,11 @@ hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
 
 [[files]]
+file = "mods/experimental-settings-disabler.pw.toml"
+hash = "94eccbdf0d1f6bdd57c7ab0d45fea70a1fe89970edf8d424ab323cea17bfc573"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "da5a514b0ea726f2f58480c2f8d322cb7596e9e0595da2dfac9183ae48c2def5"
 metafile = true
@@ -449,13 +463,8 @@ hash = "f5e3281c535e0496e47c599773da24ad7513904701dff2114f584198588c47a3"
 metafile = true
 
 [[files]]
-file = "mods/jade-addons-forge.pw.toml"
-hash = "851c2cb5a6ec430f8df11784d97f6762949dfc2b056d1fda465646f7867c4cdf"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons.pw.toml"
-hash = "f41cbd4e04d52ac715dc243fe0cd0df327de89a155d5c2145aa26ba7667d43c8"
+hash = "2db057973d45d5b76ab789648a86517abeb62b359fed8092cf2216dd0f3c91dc"
 metafile = true
 
 [[files]]
@@ -496,6 +505,11 @@ metafile = true
 [[files]]
 file = "mods/log-begone.pw.toml"
 hash = "4213fbf3c69dda9733f205d6a0d8d130cccb10f4271cd6a469bf3c99fa358c89"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "1a68e6d0ffd704bb3c7cdde74568b841cd110b82c39d3beebc63886156f3da7b"
 metafile = true
 
 [[files]]
@@ -566,6 +580,11 @@ metafile = true
 [[files]]
 file = "mods/otyacraft-engine.pw.toml"
 hash = "3e3b97073d6ea623be3888b07bf4b75ad1c925cab321509c157f3bbac6ed6eb2"
+metafile = true
+
+[[files]]
+file = "mods/passive-skill-tree.pw.toml"
+hash = "9084743d46c58b60c94ecbb1360bdaf824c2cbc65dc564b74d125f8f4e849519"
 metafile = true
 
 [[files]]
@@ -655,7 +674,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "06e2a6174a0610e9f8c94385c90ba86a06cce54a3c15f04a2cb3dd1020f63e43"
+hash = "fdcb35b291b7dd2c4db0a7c733a17e901a682b46a0a5c13ee5fcd2a0e12f8157"
 metafile = true
 
 [[files]]
