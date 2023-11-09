@@ -54,7 +54,7 @@ hash = "5fa1aa1574c6f7f80eea8ce7101f1c35e157fbd6df6f4eaee4245dfe12ad4039"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "2c76c8fd4a48d7a15b5dcf229d741779667d6c95359328c5a7f50d009ba00c62"
+hash = "15108cd90dfb481bb4f6b44597e36aa342159f820c3e14fafbce0aaf08f090fa"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -175,6 +175,11 @@ hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
 [[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "79e26d8c271ea28cc2c32b871dc5d96af176c223b8caa22c3fbc7c27cadd148a"
+metafile = true
+
+[[files]]
+file = "mods/advanced-chimneys.pw.toml"
+hash = "575bde6b92b8e80b3b9acd1fe31645eca69fdd2e9d2dc6b162581b474cb92ca1"
 metafile = true
 
 [[files]]
@@ -423,6 +428,11 @@ hash = "bf99a67e71e3c434429c01dc70c02f9ab829a00a0d18b42f041bb6d3aec79195"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "8bf8fca986e0d08524a13b0e635c05d2c9a0a9b9a31cd90d647bbf1b54aa6c02"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
 metafile = true
@@ -435,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
+metafile = true
+
+[[files]]
+file = "mods/gems-jewels.pw.toml"
+hash = "929aec486f43325f03f3d056928e0ac3b3dd459124c604b3cb4d9c985a0251d3"
 metafile = true
 
 [[files]]
@@ -605,6 +620,11 @@ metafile = true
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "a4a2e35c9cdf314d96cf752ca7a2a2ba5cd2a7ececf64e18ac9beb36935816a7"
+metafile = true
+
+[[files]]
+file = "mods/pollution-of-the-realms.pw.toml"
+hash = "fb91c75929b64ea4379e7db35c4730ae105a7217bb663b5af20e565752cb0c27"
 metafile = true
 
 [[files]]

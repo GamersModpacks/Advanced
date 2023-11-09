@@ -31,6 +31,10 @@ file = "config/unionlib-client.toml"
 file = "config/unionlib-server.toml"
 
 [[files]]
+file = "mods/advanced-chimneys.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ae2-things-forge.pw.toml"
 metafile = true
 
@@ -139,11 +143,19 @@ file = "mods/first-aid.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gems-jewels.pw.toml"
 metafile = true
 
 [[files]]
@@ -224,6 +236,10 @@ metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pollution-of-the-realms.pw.toml"
 metafile = true
 
 [[files]]
