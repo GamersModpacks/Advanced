@@ -54,7 +54,7 @@ hash = "5fa1aa1574c6f7f80eea8ce7101f1c35e157fbd6df6f4eaee4245dfe12ad4039"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "15108cd90dfb481bb4f6b44597e36aa342159f820c3e14fafbce0aaf08f090fa"
+hash = "5a0d6336e6fc2eb238f9275d5411a1251dd1fb38e17b59266634d84532541059"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -420,11 +420,6 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
-metafile = true
-
-[[files]]
-file = "mods/first-aid.pw.toml"
-hash = "bf99a67e71e3c434429c01dc70c02f9ab829a00a0d18b42f041bb6d3aec79195"
 metafile = true
 
 [[files]]
