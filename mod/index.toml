@@ -139,10 +139,6 @@ file = "mods/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/first-aid.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/forgeendertech.pw.toml"
 metafile = true
 
