@@ -17,6 +17,10 @@ file = "config/NoChatReports/NCR-Encryption.json"
 hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "43535317ab5a8e95f2d3484acc92788cf84337bead4b6b4095beb85d7dc449b9"
+
+[[files]]
 file = "config/connectivity-common.toml"
 hash = "eea7bfee437505ff2713b92136e5e2c1b807e8da2606da7a168ac0964ab98697"
 
@@ -26,7 +30,7 @@ hash = "6b1bfa1c939d60af0b0fdebbcd4cc00480755fe097fa45f0af67d7438117b3fc"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "cad827910f91929dc962730c9141a935caad6c6e24f1287106517a69d2a12915"
+hash = "bb52c8aa621b6518b2e449c5012605c155e08e67b022e3db997167da4e835a52"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -38,23 +42,23 @@ hash = "ed06c056df10cae3d25820d9abb581fc8fbeda1b46496fe941698ea7e6b46923"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/en_us.local"
-hash = "e3e3e1a21591122f4afd8ebab5bf43086cacf4928c1c17dafa4a6133c22a5372"
+hash = "381460e7b402c3dcc551ad219d6a59554ee61d89355ca8c6495495545c1134b8"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/ru_ru.local"
-hash = "49ff98cc6fa74dc4a856db52718c643ac3f7a2c047e46df7c138ed5e81bdfd3f"
+hash = "d9025157d1e33c5747a24bbb3beb1b46330c1633fbd684ddea524d583eb91918"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/uk_ua.local"
-hash = "1da313ac222f86983f5ccafdd363c7a1798f9c2f1590f36076c3336cc2567b8b"
+hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "5fa1aa1574c6f7f80eea8ce7101f1c35e157fbd6df6f4eaee4245dfe12ad4039"
+hash = "f2e05c9981fd3ef0f37b67ddc9c4130cc48a14f0ccf06a2d0e5b982d3ce1816a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "5a0d6336e6fc2eb238f9275d5411a1251dd1fb38e17b59266634d84532541059"
+hash = "ea3204363df44c1dcf5026f162de84bc5ddfd8b8dd7ae4a79e48ed80d1b799bc"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -66,7 +70,7 @@ hash = "cd2af84bb147aaad0a27d45b244703fcf034d333d877e886591d2021617c2ea9"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "97e521e39690dad715d73c8f030cda1aff0801983665d27791893ab26fa3e7cd"
+hash = "9cf70d05c950c54d33b198f9c55cf50604bd5b4d0205308bc1b037600b8e566e"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
@@ -113,12 +117,32 @@ file = "config/openloader/advanced_options.json"
 hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
 
 [[files]]
+file = "config/openloader/resources/GamersAdvanced Resources/assets/curios/textures/gui/inventory.png"
+hash = "ac9e8cbafacd3d2c27724c27101ec8d3030e18fc2f36a243c2b30f6d5209918d"
+
+[[files]]
+file = "config/openloader/resources/GamersAdvanced Resources/pack.mcmeta"
+hash = "5dba589bd32c2b17cd66ca83eea04134d3b3ae9677aecf734adb563df1f04178"
+
+[[files]]
+file = "config/openloader/resources/PackFramework Resources/assets/packframework/lang/en_us.json"
+hash = "ca160e79cc417972f82abdb3b153db35d092b2ffdffc434299e4afb9ff5b23da"
+
+[[files]]
+file = "config/openloader/resources/PackFramework Resources/assets/packframework/lang/ru_ru.json"
+hash = "72750732bcd22b829092ce77e85c76e7223b7a2327761a5e0992f2b7f41c212c"
+
+[[files]]
+file = "config/openloader/resources/PackFramework Resources/assets/packframework/lang/uk_ua.json"
+hash = "39a4fd08a6b62481051b81a572999f91311dc56fa5280960283a20962b492d36"
+
+[[files]]
 file = "config/openloader/resources/PackFramework Resources/assets/tipsmod/lang/ru_ru.json"
 hash = "fca6bc6971763f96522f080d7a681beeeb16bf31c316f4f34d9fa17571681859"
 
 [[files]]
 file = "config/openloader/resources/PackFramework Resources/pack.mcmeta"
-hash = "e4b898a4071ae640b2d976b9bc89a997a4b021a0adf342b0f1c7b325d5550db5"
+hash = "45281b3b43211fd9258d496ca4ff768b976de57e3ee1618c75928a1503f4fe21"
 
 [[files]]
 file = "config/openloader/resources/chat-reporting-helper.pw.toml"
@@ -174,7 +198,7 @@ hash = "be39b7a4816eb07fba4bad33c758cb1b35b7d9c791c25a651f4c42e64739e529"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "79e26d8c271ea28cc2c32b871dc5d96af176c223b8caa22c3fbc7c27cadd148a"
+hash = "a66a096d6dd61cceb381beeddd8bbe3300e4f23621c8103ef91522421779a623"
 metafile = true
 
 [[files]]
@@ -413,11 +437,6 @@ hash = "6ec4fcec4795f75ffdb7333316b4a40acb97bd4e5560d0ea437d477358b10d87"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
-metafile = true
-
-[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0d6d8d7beaca1ae779f2e734db30da2595b98587f0714a6b15721664acf8f946"
 metafile = true
@@ -443,9 +462,8 @@ hash = "ab7bb11199e592a43542ec0ca68c0536b91b5045e070a77525ae1593ca722b90"
 metafile = true
 
 [[files]]
-file = "mods/gems-jewels.pw.toml"
-hash = "929aec486f43325f03f3d056928e0ac3b3dd459124c604b3cb4d9c985a0251d3"
-metafile = true
+file = "mods/gemsnjewels-1.19.2-0.2.1.jar"
+hash = "b39a08657fd97fe0a61c2c40bb343da1b530a939965f810375aa102d69602c6a"
 
 [[files]]
 file = "mods/goprone.pw.toml"
@@ -668,6 +686,11 @@ hash = "b0a69c4220630bac228b6fc063b04bea5b40e745ff6e158c2536caef8a35c1a5"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "4d84884ba932e34e9da2d7972fe1aba65e6acfde071ccf6098f16c9ae91ed4ea"
+metafile = true
+
+[[files]]
 file = "mods/simply-swords.pw.toml"
 hash = "4def11fa6fe8542cac24c72f3b122c6ea2731b230ae920bd501027e1f4c89dae"
 metafile = true
@@ -675,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "49a62dc782f18f414f4dd5fd08a10a31c8698a87404ed12b7a847b6ac474c2e4"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "a898c133538d6b6b4fc3cfdb95e58965a3faad1524d40f8b224771d77e4a4639"
 metafile = true
 
 [[files]]
@@ -689,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fdcb35b291b7dd2c4db0a7c733a17e901a682b46a0a5c13ee5fcd2a0e12f8157"
+hash = "e457857bcd60c949be74c059251cb540642ed0e8006932c4c17e0da4eb149269"
 metafile = true
 
 [[files]]
@@ -725,6 +753,16 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "6fa07841be0b2cfaaaffc186e64285712582916c983258f4aefa036f2b369ad9"
+metafile = true
+
+[[files]]
+file = "mods/trajans-core.pw.toml"
+hash = "7ee3b6ff9b1d1b27c07498d694678b43d136aee0dc820849e9a21a06f317c55b"
+metafile = true
+
+[[files]]
+file = "mods/trajans-tanks.pw.toml"
+hash = "dbe41eeb7b1e3fcbc8632807808bffaacfedd35906e2f370485dcd991819dcb8"
 metafile = true
 
 [[files]]

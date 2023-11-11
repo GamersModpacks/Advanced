@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bcc-common.toml"
+
+[[files]]
 file = "config/create-client.toml"
 
 [[files]]
@@ -14,6 +17,12 @@ file = "config/fancymenu/resources/background.jpg"
 
 [[files]]
 file = "config/fancymenu/resources/logo.png"
+
+[[files]]
+file = "config/openloader/resources/GamersAdvanced Resources/assets/curios/textures/gui/inventory.png"
+
+[[files]]
+file = "config/openloader/resources/GamersAdvanced Resources/pack.mcmeta"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -151,8 +160,7 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/gems-jewels.pw.toml"
-metafile = true
+file = "mods/gemsnjewels-1.19.2-0.2.1.jar"
 
 [[files]]
 file = "mods/goprone.pw.toml"
@@ -263,6 +271,10 @@ file = "mods/smooth-boot-reloaded.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 metafile = true
 
@@ -280,6 +292,14 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-cities.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trajans-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trajans-tanks.pw.toml"
 metafile = true
 
 [[files]]
