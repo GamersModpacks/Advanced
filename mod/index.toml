@@ -295,13 +295,5 @@ file = "mods/the-lost-cities.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/trajans-core.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/trajans-tanks.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/vinery.pw.toml"
 metafile = true

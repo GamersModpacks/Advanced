@@ -353,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "1f3f2a560254f93a62cb6ab4f334aa3ecab341c588be254f2e21a02a320c2e1b"
+hash = "8bab239412043dd0f5453e72a68217de8ffcb276ef5ae50458549412b97511a1"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "a4a2e35c9cdf314d96cf752ca7a2a2ba5cd2a7ececf64e18ac9beb36935816a7"
+hash = "b63e085d30f55f3e605c9a62c8ca225f9ee695fb065fd535eaab4d281810c095"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-lost-cities.pw.toml"
-hash = "6ff4ffd337ffa30a9f66778bccce4a6bf9c040b196784e06996edd8ce50adc1f"
+hash = "b4e5fbc1d4d153bf06810fab81f78f8a19c38b87b23133a06cee6d7192b0fa62"
 metafile = true
 
 [[files]]
@@ -753,16 +753,6 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "6fa07841be0b2cfaaaffc186e64285712582916c983258f4aefa036f2b369ad9"
-metafile = true
-
-[[files]]
-file = "mods/trajans-core.pw.toml"
-hash = "7ee3b6ff9b1d1b27c07498d694678b43d136aee0dc820849e9a21a06f317c55b"
-metafile = true
-
-[[files]]
-file = "mods/trajans-tanks.pw.toml"
-hash = "dbe41eeb7b1e3fcbc8632807808bffaacfedd35906e2f370485dcd991819dcb8"
 metafile = true
 
 [[files]]
