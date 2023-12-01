@@ -13,5 +13,5 @@ jobs:
       - name: Merge beta to release
         run: |
           git checkout release
-          git merge beta
+          git merge forge/1.19.2
           git push origin release
