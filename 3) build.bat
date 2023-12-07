@@ -12,7 +12,5 @@ del beta\.packwizignore
 cd beta
 packwiz refresh
 packwiz remove xaeros-minimap
-packwiz cf install xaeros-minimap-fair-play-edition
-packwiz cf install https://www.curseforge.com/minecraft/mc-mods/unionlib/files/4570859
 packwiz refresh --build
 @pause

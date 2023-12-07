@@ -34,12 +34,6 @@ file = "config/sanitydim/default.toml"
 file = "config/supplementaries-client.toml"
 
 [[files]]
-file = "config/unionlib-client.toml"
-
-[[files]]
-file = "config/unionlib-server.toml"
-
-[[files]]
 file = "mods/advanced-chimneys.pw.toml"
 metafile = true
 
@@ -64,11 +58,19 @@ file = "mods/attributefix.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/auto-leveling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/beachparty.pw.toml"
 metafile = true
 
 [[files]]
@@ -92,7 +94,7 @@ file = "mods/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
+file = "mods/citadel.pw.toml"
 metafile = true
 
 [[files]]
@@ -101,6 +103,10 @@ metafile = true
 
 [[files]]
 file = "mods/compressedcreativity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
 metafile = true
 
 [[files]]
@@ -160,9 +166,6 @@ file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/gemsnjewels-1.19.2-0.2.1.jar"
-
-[[files]]
 file = "mods/goprone.pw.toml"
 metafile = true
 
@@ -175,6 +178,10 @@ file = "mods/idas.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 metafile = true
 
@@ -184,6 +191,18 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-nethervinery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/little-contraptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/little-logistics.pw.toml"
 metafile = true
 
 [[files]]
@@ -223,6 +242,10 @@ file = "mods/nuclear-science.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/otyacraft-engine.pw.toml"
 metafile = true
 
@@ -255,6 +278,10 @@ file = "mods/relics-mod.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/sanity-descent-into-madness.pw.toml"
 metafile = true
 
@@ -267,19 +294,11 @@ file = "mods/simply-swords.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/survive.pw.toml"
 metafile = true
 
 [[files]]
@@ -291,9 +310,65 @@ file = "mods/tetra.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/the-lost-cities.pw.toml"
+file = "mods/tough-as-nails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/untamedwilds.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/vinery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/welcome-to-meadow.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair-play-edition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
 metafile = true
