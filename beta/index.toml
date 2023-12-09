@@ -18,7 +18,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a211747ff72b3a45ed44e270ee568bc80b2d257859fb09b9c112c3ad28c47fd8"
+hash = "d96d517f25bbbb8413325f7f351a9b8a0e85842904f72c38b978528e7961dad0"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -58,7 +58,7 @@ hash = "15eba3a3bc2cd9e70e007e7d292a5dc236a9cb6ed7ba3350b39890a61f51273f"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "f373be3697bdf24df695f12e21bb7ea17ef8cb288396557de8c282816488118b"
+hash = "07172fe31292d171b93b66f02af2e3fda88daf1b88dddce723f07d97a7a97783"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -121,6 +121,10 @@ file = "config/openloader/resources/GamersAdvanced Resources/assets/curios/textu
 hash = "ac9e8cbafacd3d2c27724c27101ec8d3030e18fc2f36a243c2b30f6d5209918d"
 
 [[files]]
+file = "config/openloader/resources/GamersAdvanced Resources/assets/sanitydim/lang/ru_ru.json"
+hash = "4ed9c7890a0d8bb3a61db3086cae70018726e860c1c357d3315394675e7991ad"
+
+[[files]]
 file = "config/openloader/resources/GamersAdvanced Resources/pack.mcmeta"
 hash = "5dba589bd32c2b17cd66ca83eea04134d3b3ae9677aecf734adb563df1f04178"
 
@@ -179,6 +183,10 @@ hash = "e0a32c92f8a44046eaf90a09625aeb11eaacaab3286b59fcf78b2baaa30fa3cd"
 [[files]]
 file = "config/tips.json"
 hash = "21b1e5be83c73f6b87dd918486469a8da1ce9945f92dc1faa4cce70f1f53bbc8"
+
+[[files]]
+file = "config/toughastweaked-common.toml"
+hash = "c2a6b55028b6a1006d8429bfbd418c4175f07d8b1adc9f1f45b5b680cddbbe06"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -781,6 +789,11 @@ metafile = true
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "ee280fb779044cdf3cc2790e3afc11d75abdac82d3076be675da1714174b1fc9"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-tweaked.pw.toml"
+hash = "0721b3ae071b546bcd27597fb98d42657773a5f89ec2f2568b25547f0be5cbf8"
 metafile = true
 
 [[files]]

@@ -22,6 +22,9 @@ file = "config/fancymenu/resources/logo.png"
 file = "config/openloader/resources/GamersAdvanced Resources/assets/curios/textures/gui/inventory.png"
 
 [[files]]
+file = "config/openloader/resources/GamersAdvanced Resources/assets/sanitydim/lang/ru_ru.json"
+
+[[files]]
 file = "config/openloader/resources/GamersAdvanced Resources/pack.mcmeta"
 
 [[files]]
@@ -32,6 +35,9 @@ file = "config/sanitydim/default.toml"
 
 [[files]]
 file = "config/supplementaries-client.toml"
+
+[[files]]
+file = "config/toughastweaked-common.toml"
 
 [[files]]
 file = "mods/advanced-chimneys.pw.toml"
@@ -311,6 +317,10 @@ metafile = true
 
 [[files]]
 file = "mods/tough-as-nails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tough-as-tweaked.pw.toml"
 metafile = true
 
 [[files]]
