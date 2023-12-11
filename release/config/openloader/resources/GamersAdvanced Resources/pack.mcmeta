@@ -1,9 +1,0 @@
-{
-    "pack": {
-        "pack_format": 9,
-        "description": {
-            "translate": "pack.mod.resourcepack.info",
-            "fallback": "Additional Resources for ModPack"
-        }
-    }
-}
