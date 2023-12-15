@@ -50,11 +50,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "71611088ef4915b6fbf512b14903be5d52ab6e1b15600559fe27b4de53607b67"
+hash = "77230e1fffb2ceafda5d4cf9374bc5d47b1b9bf383025a98dfdcfdab4786e7fd"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "72c84171dc14b775703254cccfc896b58f9b7ce6c2eedbe029938c56ace18617"
+hash = "751d0d550ee2f7b4e4baa9f666557b9fce0ba4388d25b15c3c0a60b38506b4d1"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -87,10 +87,6 @@ hash = "34daa909eb4e7674f9266122ea7d011767e41438a3c3e4b2b1bed0217b4b2172"
 [[files]]
 file = "config/fancymenu/resources/logo.png"
 hash = "58ccd74840228f2e85303f3431116cca8edf07e9cca91793ea84d7a6c6f999ce"
-
-[[files]]
-file = "config/fml.toml"
-hash = "e38bbcdbe59086a61de3f6a060bc44c7be4117a2001dbb6e49d7db1193386a39"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -138,7 +134,7 @@ hash = "1affa0519336b36eec2c6c07e3dfc3669dff68e08587681110aa7ab8459ce4b8"
 
 [[files]]
 file = "config/openloader/resources/chat-reporting-helper.pw.toml"
-hash = "286f14d28327a4b019d98b4c22cea072fd10566a188bfc4a01052380feb4304a"
+hash = "1018dbffebb8bc27dbd654e34a5f85b6407c54793717d7f98cee8040601f6b8f"
 metafile = true
 
 [[files]]
@@ -167,10 +163,6 @@ hash = "0f685590516517ca2cf4a6f9b7e8eaebb55763b7ea7f0c5f3f972982aac56392"
 [[files]]
 file = "config/supplementaries-client.toml"
 hash = "e0a32c92f8a44046eaf90a09625aeb11eaacaab3286b59fcf78b2baaa30fa3cd"
-
-[[files]]
-file = "config/tips.json"
-hash = "21b1e5be83c73f6b87dd918486469a8da1ce9945f92dc1faa4cce70f1f53bbc8"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -638,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/passive-skill-tree.pw.toml"
-hash = "ab424ae2ac79b73b9b60f71a6dea1b59dfbc6248699db55a986389e961f5a7ac"
+hash = "707e554efbfa127adbe8615f7568e8608717931bb86d187f5284d487ef3a367c"
 metafile = true
 
 [[files]]
@@ -693,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "c5e0eb782419ba9607f8cc151d2553b6d440feec00a9f443696b2f06009d9145"
+hash = "27281c937160c6f246b87afce7a202893efeffda1c8d353b1e6f18b7539814cb"
 metafile = true
 
 [[files]]
@@ -708,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e431c2545125c751c4035125fc998cfcdcdec68aacd1925b1acd707cac4838ac"
+hash = "a18bbccf849dfc65e3af7efafb470cab32c5041958fccecb2e2a8b36898ceba5"
 metafile = true
 
 [[files]]
