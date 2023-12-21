@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "9d0a21f8b5605c386823fd26a81877cde70be89319b0fe231ef1c31f9712d674"
+
+[[files]]
+file = "changelog.txt"
+hash = "a299e1942538e8ef2257004ebfa4c60c5f846f8af61f8090975b92d662b0447b"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
 
@@ -50,11 +58,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "77230e1fffb2ceafda5d4cf9374bc5d47b1b9bf383025a98dfdcfdab4786e7fd"
+hash = "00e4eb65ad1db272760f218d2cc8eb7e973f5bcaedea332c5bbfb924861cc479"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "751d0d550ee2f7b4e4baa9f666557b9fce0ba4388d25b15c3c0a60b38506b4d1"
+hash = "dde1101d0936ba2ef9815e26e359528498a420982e01f8a4b1dca60da76f847c"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -70,7 +78,7 @@ hash = "9cf70d05c950c54d33b198f9c55cf50604bd5b4d0205308bc1b037600b8e566e"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "d265174c8cbe65154c44db1bc470e6b99cf36185a17d0136728e28c89d6b8f7f"
+hash = "7d0e897418b0efad98bb291e867acbef27bcce350332d0c16115cacf37c4e237"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
@@ -125,6 +133,18 @@ file = "config/openloader/resources/ModPack Resources/assets/sanitydim/lang/ru_r
 hash = "4ed9c7890a0d8bb3a61db3086cae70018726e860c1c357d3315394675e7991ad"
 
 [[files]]
+file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/en_us.json"
+hash = "29c3eb1b4b8222ceab8f1edf8dbf7cbd6f9dc46418f732d79dc67d609cb152b9"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/ru_ru.json"
+hash = "f61bb67ab76a9457b8cf7d8d01ba0bc50de538d5602eb74959f0c7e4045cf7af"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/uk_ua.json"
+hash = "f654416c50969930c2b6436e55eb2484655c3604e90073f7c42e2be4cf716408"
+
+[[files]]
 file = "config/openloader/resources/ModPack Resources/pack.mcmeta"
 hash = "45281b3b43211fd9258d496ca4ff768b976de57e3ee1618c75928a1503f4fe21"
 
@@ -159,6 +179,10 @@ hash = "10e8e73ba6d165f7fe0bd2a29f6a03025a21ac0f3cf649d7320ce25a900f22ea"
 [[files]]
 file = "config/sanitydim/default.toml"
 hash = "0f685590516517ca2cf4a6f9b7e8eaebb55763b7ea7f0c5f3f972982aac56392"
+
+[[files]]
+file = "config/sdrp-common.json"
+hash = "b127f6982ccebbe4a3170a128c995a2d045cd16e648aa18b2a052db891a86ac3"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -274,16 +298,6 @@ hash = "f123a2b4bae7be86d7bc6c4f6cfb30d914991558cd744b3b3c561088848ae416"
 metafile = true
 
 [[files]]
-file = "mods/cc-ballistx.pw.toml"
-hash = "069bbd257f46cb259115d283057112cd79bc5ed9c10b5572e0f146bc46436dd8"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "d9a854dc615bafee94247c2ad9e9d794f291c37cd03b61b9323222ad4a4a96e5"
-metafile = true
-
-[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "73b5ea7c9f0ff8ac9d03bc410bfac63aabe43cf44569b288ccae29d74289112e"
 metafile = true
@@ -300,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2c3ddac643593c3dec5bdad4a4ee6d10b62430409ee1c558ce3c5cbed9f40700"
+hash = "620351b6440c5a97a7ea574f4bba4f1f83b84ce2f908fe31a116406e35fa6c57"
 metafile = true
 
 [[files]]
@@ -310,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "543fe4b72ec08e5afe42e398bda07e326100fb67de5f07da3770631e917881a2"
+hash = "51319715d48d83572022f40ef67111c8118702466afdecc614f83d92d79d8c9d"
 metafile = true
 
 [[files]]
@@ -335,12 +349,17 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "f6a6d6938bb2b90b79c7f632661dd6b1cf921bfef932100fe243497e6a231111"
+hash = "185ea4ac705a91639efb4d10033add22f73be5b5225c544c354fc3ff1d581383"
 metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "ab67c6829d8d17d0b24094833fdaca9a8a61687e9c4170804e4c481c257163d5"
+metafile = true
+
+[[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "46c8cc73b106105ec803b03a21e9638d7a4843214916d2fbd303359e0cb65646"
 metafile = true
 
 [[files]]
@@ -464,6 +483,11 @@ hash = "253853c31dac237fc82cbc31f68a1df6f7d6656fc3cc478228550d627fb150b1"
 metafile = true
 
 [[files]]
+file = "mods/hidden-names.pw.toml"
+hash = "14d63408cee94ae498d5d8ee0df3b88b975f1643a3023c26205ea19d0ab40b71"
+metafile = true
+
+[[files]]
 file = "mods/iammusicplayer.pw.toml"
 hash = "ee0931dbaa17082ab96d2d43e5c952fa6df87536aa31b65f042392fd464f10d3"
 metafile = true
@@ -486,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "f5e3281c535e0496e47c599773da24ad7513904701dff2114f584198588c47a3"
+metafile = true
+
+[[files]]
+file = "mods/item-production-lib.pw.toml"
+hash = "b286a0a9a2c40ae8c840f6292997a33cbb219e0f6fc095f6b45623b9162d12ca"
 metafile = true
 
 [[files]]
@@ -584,6 +613,11 @@ hash = "2f53e2c4d5cc58a7fd32d613a80911c6c77924e03608ffffdce05f9eae62b951"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "d7a6e463e3c1b898e3760ac96566202012f854ce556f8b05fbb6a39cd343ba66"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
 hash = "9d25723296009a6495d0d9a75ee2bfc54e62dd43ea9ee113b391c629954637e8"
 metafile = true
@@ -630,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/passive-skill-tree.pw.toml"
-hash = "707e554efbfa127adbe8615f7568e8608717931bb86d187f5284d487ef3a367c"
+hash = "0acb26fd620dec1d25387c333c6aca6c4a26dec297144b5ad6b37d7d981dea80"
 metafile = true
 
 [[files]]
@@ -650,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "3133e689b30b473430230bdf4dc6714d1d1bd4c97a6aec5d82f75d37f280635b"
+hash = "0de52bff6d998a5a63668ab1db510c3be921fe66e00a95a3d4af104afbaffbd2"
 metafile = true
 
 [[files]]
@@ -665,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/relics-mod.pw.toml"
-hash = "b877d4a30ad18e7ad746d661673a7648a51411db4d177bcb5af91204e38f6cf7"
+hash = "7ebce1ca021ab258863755cc8b74c40dfe80f7abc25ddc3ee45a04637f89ac50"
 metafile = true
 
 [[files]]
@@ -699,8 +733,13 @@ hash = "b0a69c4220630bac228b6fc063b04bea5b40e745ff6e158c2536caef8a35c1a5"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rich-presence.pw.toml"
+hash = "0f16e43e22d02a7b916a2e2d25d378e24edda982d6bfa999ca072d869200c01d"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a18bbccf849dfc65e3af7efafb470cab32c5041958fccecb2e2a8b36898ceba5"
+hash = "f597d4145e29c4bea983974ba90476d86ce5ff1b582a0a7ba497aa724f127e96"
 metafile = true
 
 [[files]]
@@ -730,7 +769,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "9a4cf2b30b698532774ab0b99b1c0bfe0263b2730fbebd20b4cd72f84835b528"
+hash = "3c5549599aac807cc3c89f77dc44629e5f110696aea3ec07b074bf2e3db0ed1f"
 metafile = true
 
 [[files]]

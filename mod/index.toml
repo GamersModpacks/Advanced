@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "changelog.txt"
+
+[[files]]
 file = "config/coldsweat/client.toml"
 
 [[files]]
@@ -25,6 +28,15 @@ file = "config/openloader/resources/ModPack Resources/assets/curios/textures/gui
 file = "config/openloader/resources/ModPack Resources/assets/sanitydim/lang/ru_ru.json"
 
 [[files]]
+file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/en_us.json"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/ru_ru.json"
+
+[[files]]
+file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/uk_ua.json"
+
+[[files]]
 file = "config/openloader/resources/ModPack Resources/pack.png"
 
 [[files]]
@@ -32,6 +44,9 @@ file = "config/quark-common.toml"
 
 [[files]]
 file = "config/sanitydim/default.toml"
+
+[[files]]
+file = "config/sdrp-common.json"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -89,14 +104,6 @@ file = "mods/botarium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/cc-ballistx.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 metafile = true
 
@@ -122,6 +129,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-confectionery.pw.toml"
 metafile = true
 
 [[files]]
@@ -177,6 +188,10 @@ file = "mods/goprone.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/hidden-names.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/iammusicplayer.pw.toml"
 metafile = true
 
@@ -194,6 +209,10 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/item-production-lib.pw.toml"
 metafile = true
 
 [[files]]
@@ -234,6 +253,10 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
 metafile = true
 
 [[files]]
