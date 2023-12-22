@@ -6,6 +6,7 @@ xcopy framework\*.* beta\ /e
 xcopy mod\*.* beta\ /e /y
 :: Removing unused files.
 del beta\README.md
+del beta\CHANGELOG.md
 del beta\.gitattributes
 del beta\.packwizignore
 :: Pack Additions

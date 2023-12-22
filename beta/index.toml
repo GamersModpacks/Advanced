@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CHANGELOG.md"
-hash = "9d0a21f8b5605c386823fd26a81877cde70be89319b0fe231ef1c31f9712d674"
+file = "CustomSkinLoader/CustomSkinLoader.json"
+hash = "4d8f1b428672771c5fdcf5b769bcbd0f3632999845ba2342689efeef83f54282"
 
 [[files]]
 file = "changelog.txt"
@@ -58,11 +58,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "00e4eb65ad1db272760f218d2cc8eb7e973f5bcaedea332c5bbfb924861cc479"
+hash = "a1af1efe48d36b59f450d31306a90f0a8b265e295c51006c4ad0364a104d652a"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "dde1101d0936ba2ef9815e26e359528498a420982e01f8a4b1dca60da76f847c"
+hash = "c24bd636fead05a32ef9d1dabfb856e19c6c0baa55c88d1121a9bff183a991f9"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -78,15 +78,7 @@ hash = "9cf70d05c950c54d33b198f9c55cf50604bd5b4d0205308bc1b037600b8e566e"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "7d0e897418b0efad98bb291e867acbef27bcce350332d0c16115cacf37c4e237"
-
-[[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "d1259cbe7df1ab62c51fc8aaab2498f042eacfd48cc8dff38bbdf6cb97ca66bb"
-
-[[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "891558c866899e9a9d349ddf6cfcf78290bdaf18fbd867635d9cf33bbd289ef4"
+hash = "5f44b5c92b5232935913cf3200140423a12bb1742a8d716fda69101db9952032"
 
 [[files]]
 file = "config/fancymenu/resources/background.jpg"
@@ -95,10 +87,6 @@ hash = "34daa909eb4e7674f9266122ea7d011767e41438a3c3e4b2b1bed0217b4b2172"
 [[files]]
 file = "config/fancymenu/resources/logo.png"
 hash = "58ccd74840228f2e85303f3431116cca8edf07e9cca91793ea84d7a6c6f999ce"
-
-[[files]]
-file = "config/forge-client.toml"
-hash = "3e5a526c616a7821efe456c984ecdda682623435b25a05a77dfb84bc80bef60b"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -131,18 +119,6 @@ hash = "27850f9adbc86081a0b7852159002365888e4332ba2f390720f566a420e79cac"
 [[files]]
 file = "config/openloader/resources/ModPack Resources/assets/sanitydim/lang/ru_ru.json"
 hash = "4ed9c7890a0d8bb3a61db3086cae70018726e860c1c357d3315394675e7991ad"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/en_us.json"
-hash = "29c3eb1b4b8222ceab8f1edf8dbf7cbd6f9dc46418f732d79dc67d609cb152b9"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/ru_ru.json"
-hash = "f61bb67ab76a9457b8cf7d8d01ba0bc50de538d5602eb74959f0c7e4045cf7af"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/uk_ua.json"
-hash = "f654416c50969930c2b6436e55eb2484655c3604e90073f7c42e2be4cf716408"
 
 [[files]]
 file = "config/openloader/resources/ModPack Resources/pack.mcmeta"
@@ -179,10 +155,6 @@ hash = "10e8e73ba6d165f7fe0bd2a29f6a03025a21ac0f3cf649d7320ce25a900f22ea"
 [[files]]
 file = "config/sanitydim/default.toml"
 hash = "0f685590516517ca2cf4a6f9b7e8eaebb55763b7ea7f0c5f3f972982aac56392"
-
-[[files]]
-file = "config/sdrp-common.json"
-hash = "b127f6982ccebbe4a3170a128c995a2d045cd16e648aa18b2a052db891a86ac3"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -224,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
+hash = "8c8f8222d0a2c3e1f673b137637b17bd87535b0aad111d79e242f18af48d0169"
 metafile = true
 
 [[files]]
@@ -353,11 +325,6 @@ hash = "185ea4ac705a91639efb4d10033add22f73be5b5225c544c354fc3ff1d581383"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "ab67c6829d8d17d0b24094833fdaca9a8a61687e9c4170804e4c481c257163d5"
-metafile = true
-
-[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "46c8cc73b106105ec803b03a21e9638d7a4843214916d2fbd303359e0cb65646"
 metafile = true
@@ -393,6 +360,11 @@ hash = "97ee2160e052cd77b8c5b5e99b336ac0f16813591d557b6599356e43e7aff931"
 metafile = true
 
 [[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "6b74215c6b670deb13863c9dcfeb0ddb05e0a13b34d1ac4ccd890759de62d689"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "4dca4237863144e4f09dbc62d8f9e952521fc34c5b205397a158a841461d8c72"
 metafile = true
@@ -400,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "8e9b328fedeade590af9cbf1f945fa2e8f2d5764fff3e76ce7b45ff3b7ae9e25"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "42d204e4de3abe587ff8e7ff3041d85204ed45e7ea8c1e4251b3a0eddd7e23ac"
 metafile = true
 
 [[files]]
@@ -445,11 +422,6 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "da09edd338fa641d7eee1b96ecc2cc5e6dc9d299c68da33741b3b81854a551ef"
-metafile = true
-
-[[files]]
-file = "mods/fastsuite.pw.toml"
-hash = "6ec4fcec4795f75ffdb7333316b4a40acb97bd4e5560d0ea437d477358b10d87"
 metafile = true
 
 [[files]]
@@ -563,16 +535,6 @@ hash = "5976ac0669f913fc2b497bf7adea39f3172b339190dd90eb2884540c80281d73"
 metafile = true
 
 [[files]]
-file = "mods/little-contraptions.pw.toml"
-hash = "6db3aeb9a695e8e75048bf5dd0bc2cde03026396018dd848837683fb18f7bde8"
-metafile = true
-
-[[files]]
-file = "mods/little-logistics.pw.toml"
-hash = "c58af2b040eed6276c1b575973b82459a4b2559c89ed835fe397445eb32d0321"
-metafile = true
-
-[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "1a68e6d0ffd704bb3c7cdde74568b841cd110b82c39d3beebc63886156f3da7b"
 metafile = true
@@ -609,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2f53e2c4d5cc58a7fd32d613a80911c6c77924e03608ffffdce05f9eae62b951"
+hash = "f2661863f92abd955bce27312e01370cfa60d18372651ed1d1eabf0994860115"
 metafile = true
 
 [[files]]
@@ -733,11 +695,6 @@ hash = "b0a69c4220630bac228b6fc063b04bea5b40e745ff6e158c2536caef8a35c1a5"
 metafile = true
 
 [[files]]
-file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "0f16e43e22d02a7b916a2e2d25d378e24edda982d6bfa999ca072d869200c01d"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f597d4145e29c4bea983974ba90476d86ce5ff1b582a0a7ba497aa724f127e96"
 metafile = true
@@ -754,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "2c0bfab11d6e23fe7ecb5f52083ed735814f577630c89ddd8a033cb605ec6203"
+hash = "1243211c30db3c04e5af8cac7aad16c2e0bafc754c6fc69b09c05873495575b7"
 metafile = true
 
 [[files]]

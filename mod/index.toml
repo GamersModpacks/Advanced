@@ -28,15 +28,6 @@ file = "config/openloader/resources/ModPack Resources/assets/curios/textures/gui
 file = "config/openloader/resources/ModPack Resources/assets/sanitydim/lang/ru_ru.json"
 
 [[files]]
-file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/en_us.json"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/ru_ru.json"
-
-[[files]]
-file = "config/openloader/resources/ModPack Resources/assets/sdrp/lang/uk_ua.json"
-
-[[files]]
 file = "config/openloader/resources/ModPack Resources/pack.png"
 
 [[files]]
@@ -44,9 +35,6 @@ file = "config/quark-common.toml"
 
 [[files]]
 file = "config/sanitydim/default.toml"
-
-[[files]]
-file = "config/sdrp-common.json"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -128,10 +116,6 @@ file = "mods/corpse.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-confectionery.pw.toml"
 metafile = true
 
@@ -157,6 +141,10 @@ metafile = true
 
 [[files]]
 file = "mods/do-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
 metafile = true
 
 [[files]]
@@ -221,14 +209,6 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-nethervinery.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/little-contraptions.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/little-logistics.pw.toml"
 metafile = true
 
 [[files]]

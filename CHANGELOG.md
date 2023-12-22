@@ -1,5 +1,18 @@
 # GamersAdvanced Changelog:
 
+### 1.6:
+- Updated PackFramework
+to 2.4
+
+- Added Domum Ornamentum
+
+- Updated Sound Physics
+Remastered
+
+- Removed Little Logistics,
+Little Contraptions, Create
+Big Cannons
+
 ### 1.5:
 - Updated PackFramework
 
