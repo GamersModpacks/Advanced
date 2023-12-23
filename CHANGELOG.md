@@ -1,5 +1,9 @@
 # GamersAdvanced Changelog:
 
+### 1.6.1:
+- Updated PackFramework
+to 2.4.1
+
 ### 1.6:
 - Updated PackFramework
 to 2.4
