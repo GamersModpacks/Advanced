@@ -25,16 +25,10 @@ file = "config/fancymenu/resources/logo.png"
 file = "config/openloader/resources/ModPack Resources/assets/curios/textures/gui/inventory.png"
 
 [[files]]
-file = "config/openloader/resources/ModPack Resources/assets/sanitydim/lang/ru_ru.json"
-
-[[files]]
 file = "config/openloader/resources/ModPack Resources/pack.png"
 
 [[files]]
 file = "config/quark-common.toml"
-
-[[files]]
-file = "config/sanitydim/default.toml"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -85,6 +79,10 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
 metafile = true
 
 [[files]]
@@ -196,6 +194,10 @@ file = "mods/integrated-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 metafile = true
 
@@ -232,6 +234,10 @@ file = "mods/mekanism.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 metafile = true
 
@@ -241,6 +247,10 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
 metafile = true
 
 [[files]]
@@ -292,10 +302,6 @@ file = "mods/repurposed-structures.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sanity-descent-into-madness.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/selene.pw.toml"
 metafile = true
 
@@ -305,6 +311,10 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
 metafile = true
 
 [[files]]
@@ -320,7 +330,15 @@ file = "mods/tetra.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/towntalk.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/untamedwilds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
 metafile = true
 
 [[files]]
