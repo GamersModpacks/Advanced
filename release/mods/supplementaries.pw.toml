@@ -1,13 +1,13 @@
 name = "Supplementaries"
-filename = "supplementaries-1.19.2-2.4.14.jar"
+filename = "supplementaries-1.19.2-2.4.16.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b361077130359021f1b6341f830f1ddf94901c9d"
+hash = "e76ca282acb0428b97720057ae4f94cc3779a31b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4965259
+file-id = 5017217
 project-id = 412082
