@@ -1,5 +1,27 @@
 # GamersAdvanced Changelog:
 
+### 1.7:
+- Updated PackFramework
+to 2.4.3
+
+- Added BlockUI, Create:
+Interactive, MineColonies,
+Multi-Piston, TownTalk,
+Valkyrien Skies
+
+- Removed Sanity
+
+- Updated Advanced Chimneys,
+Applied Energistics 2,
+Ballistix, Cold Sweat, Create:
+New Age, Curios API, Dynamic
+Electricity, Electrodynamics,
+NetherVinery, Nuclear Science,
+Passive Skill Tree, PneumaticCraft
+:Repressurized, Pollution of the
+Realms, Moonlight Lib,
+Supplementaries, Xaero's Minimap
+
 ### 1.6.1:
 - Updated PackFramework
 to 2.4.1
