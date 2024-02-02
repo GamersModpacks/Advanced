@@ -1,31 +1,47 @@
 hash-format = "sha256"
 
 [[files]]
-file = "changelog.txt"
-
-[[files]]
 file = "config/coldsweat/client.toml"
 
 [[files]]
 file = "config/create-client.toml"
 
 [[files]]
-file = "config/fancymenu/config.txt"
+file = "config/fancymenu/assets/background.jpg"
+
+[[files]]
+file = "config/fancymenu/assets/icon.icns"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
 
 [[files]]
-file = "config/fancymenu/resources/background.jpg"
+file = "config/fancymenu/options.txt"
 
 [[files]]
-file = "config/fancymenu/resources/logo.png"
+file = "config/openloader/advanced_options.json"
+
+[[files]]
+file = "config/openloader/data/Create Airship Recipes Custom.zip"
 
 [[files]]
 file = "config/openloader/resources/ModPack Resources/assets/curios/textures/gui/inventory.png"
 
 [[files]]
 file = "config/openloader/resources/ModPack Resources/pack.png"
+
+[[files]]
+file = "config/openloader/resources/eureka-create-airships.pw.toml"
+metafile = true
 
 [[files]]
 file = "config/quark-common.toml"
@@ -151,6 +167,10 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/eureka-ships.pw.toml"
 metafile = true
 
 [[files]]
