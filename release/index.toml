@@ -6,7 +6,7 @@ hash = "4d8f1b428672771c5fdcf5b769bcbd0f3632999845ba2342689efeef83f54282"
 
 [[files]]
 file = "changelog.txt"
-hash = "a299e1942538e8ef2257004ebfa4c60c5f846f8af61f8090975b92d662b0447b"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
@@ -41,8 +41,32 @@ file = "config/defaultoptions/options.txt"
 hash = "3d3f5d8286fa125fc5ad32d1558869208404a764b4cbad12e71e982e90b0a06b"
 
 [[files]]
-file = "config/fancymenu/config.txt"
-hash = "ed06c056df10cae3d25820d9abb581fc8fbeda1b46496fe941698ea7e6b46923"
+file = "config/fancymenu/assets/background.jpg"
+hash = "34daa909eb4e7674f9266122ea7d011767e41438a3c3e4b2b1bed0217b4b2172"
+
+[[files]]
+file = "config/fancymenu/assets/changelog.md"
+hash = "7609248a917bb7656033b7f0988892fba10365c18d4261a0dc2c5b92d2cb2d9c"
+
+[[files]]
+file = "config/fancymenu/assets/icon.icns"
+hash = "efa3e38035815074a9dba0f3fb61bf7ceda30115d34067e304146648fb45827e"
+
+[[files]]
+file = "config/fancymenu/assets/icon16.png"
+hash = "ee68fb865c97e5a8853e94812c0d5470dd40850197e185d6ec9b156749098fd5"
+
+[[files]]
+file = "config/fancymenu/assets/icon32.png"
+hash = "c47a7900b801d161a965eaffcb74b42f94a381b2b467a1bc691792eeeaea3a74"
+
+[[files]]
+file = "config/fancymenu/assets/logo.png"
+hash = "58ccd74840228f2e85303f3431116cca8edf07e9cca91793ea84d7a6c6f999ce"
+
+[[files]]
+file = "config/fancymenu/assets/pointer.png"
+hash = "84931fc04a45de9f45f8aa1acfe794d130aeb8c6fc971a8c906532b07b91e9c6"
 
 [[files]]
 file = "config/fancymenu/custom_locals/framework/en_us.local"
@@ -58,11 +82,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "412ff0fed4cf1bfef2df9e391093e3b3d251d2ae66b406aa0cea1c63468a1fe3"
+hash = "9e0875d6cbeb77378d3064d5e40c7fe50f78da1149f39cae5c4ee8c0aab55f0c"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "f2b140a25ece2e5ac3471a4a8835762eb38eb3916ef4e964399203f6fac2de5c"
+hash = "054143504abd3a44a67b7e9f71ef565d68aed428e941e5c4366b930061a88bb4"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -70,23 +94,23 @@ hash = "8b8d63ecc8fdd9e5a755644c2532acad534b6f4a41144b2ea977857d625f6a72"
 
 [[files]]
 file = "config/fancymenu/customization/boot_screen.txt"
-hash = "cd2af84bb147aaad0a27d45b244703fcf034d333d877e886591d2021617c2ea9"
+hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "9cf70d05c950c54d33b198f9c55cf50604bd5b4d0205308bc1b037600b8e566e"
+hash = "399719a53b8423e646e791bc85fc3b76b67f32190d4586b89aa4698be9ca16b0"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "5f44b5c92b5232935913cf3200140423a12bb1742a8d716fda69101db9952032"
+hash = "2ef4953aa7a7a1176f5dbc86f7a0ad1ca7403fd47c6021fae30c9c917429a73e"
 
 [[files]]
-file = "config/fancymenu/resources/background.jpg"
-hash = "34daa909eb4e7674f9266122ea7d011767e41438a3c3e4b2b1bed0217b4b2172"
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
-file = "config/fancymenu/resources/logo.png"
-hash = "58ccd74840228f2e85303f3431116cca8edf07e9cca91793ea84d7a6c6f999ce"
+file = "config/fancymenu/options.txt"
+hash = "3b255714968dc7d544460d5b79258eeede91a6b36f5358455f2c2f8f945d50a0"
 
 [[files]]
 file = "config/fpsreducer/fpsreducer-client.toml"
@@ -98,7 +122,11 @@ hash = "cf2497a58ab9be7ac7d5a3d8ebd0778804957c21cc81ce23e4b4b7e5042baa72"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
-hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/data/Create Airship Recipes Custom.zip"
+hash = "829e76223ad828715494b76d61728868cc799035abca68346d3e698f7e3ad0b7"
 
 [[files]]
 file = "config/openloader/resources/ModPack Resources/assets/curios/textures/gui/inventory.png"
@@ -137,6 +165,11 @@ metafile = true
 [[files]]
 file = "config/openloader/resources/default-dark-mode.pw.toml"
 hash = "1adcc5b6f72852090879d00b8bd0d581b5cbabc47075837cf97da2e192e2a461"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/eureka-create-airships.pw.toml"
+hash = "bdca007174c49e1d43489ff586c538a0fe1bc1b8b6f3e0c850fcedf9d5930ea5"
 metafile = true
 
 [[files]]
@@ -238,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "ea0dbc15c20319052be230824c71e962ab8cbfd5344bd84781663f8a506c3873"
+hash = "b6a9c7347fa890187eb9ee17c5bedb37e5214d4cc490e8544242238bbcf7aff8"
 metafile = true
 
 [[files]]
@@ -248,12 +281,12 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "99192cbb2aa5019f9064cfbe02c069a74b12b060f40a927c1654b2a7680ed4c1"
+hash = "87a809182ae52ea86c14be894a22e5a8e769249d6c20eb48710b40aeb0294a1e"
 metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "56f4081cefa864a94f9d272bc7588602fc7feae0c4b8c21442cc0bc94bec14d2"
+hash = "08c98e19598c4c6f78cb0fa48f3dfa3c51213e9834392996d88f32880c809031"
 metafile = true
 
 [[files]]
@@ -338,12 +371,12 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
+hash = "278f53824f79ac545293d8fc3e73742a1a3f9d72cb708e48b598b523bc037df2"
 metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ed2d2ec22398c00fbdb17dca371cb100ca3ee1f66560a62fc245c8b813ab7f69"
+hash = "e715503899e389e0d27baf13447a9e10d195f08cdf52d24b719de376e92c36b1"
 metafile = true
 
 [[files]]
@@ -368,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
-hash = "9cff4484dca7e645259a1ac594c60c91536ba24143ac2596d6bcf937da1f4b97"
+hash = "da6c4843cedb09efc2fc1a21a805c6efbc7806ff219c28d6152e28888eca4251"
 metafile = true
 
 [[files]]
@@ -378,12 +411,12 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "95e7e7f6a9675be0ae4baf5849cb45a2347e4688380bce07f0892a1d228c3e81"
+hash = "0187abccdeca7437457b91eec4f15befcfc2da7a65b81897afc05a8bf69cc884"
 metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "5b1b66ad0aa58f1721f59884c3113b921f827fa924f299eedc65ab5aaf82cf34"
+hash = "d4297bb7880139d087d25160fb0633a634fed494bc2065684b8cbc9dd9920531"
 metafile = true
 
 [[files]]
@@ -392,13 +425,18 @@ hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
 
 [[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "f0a111d8660ea31c7de4f9f7f9e8a14bdcc72a011395f3e22c637acfbce08332"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "da5a514b0ea726f2f58480c2f8d322cb7596e9e0595da2dfac9183ae48c2def5"
+hash = "0eb62f1e93895127926a50be2ca7e1205efaaf1fae3229a21eed80b3343f3321"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "7178ff9343de304a0b6a46bb26469b82ae90051f17ea4e5e547bbc86cbf7982f"
+hash = "2f0d30f69784a97558a03cec6e647be036bda30602dde06b82df78cd4ef464ee"
 metafile = true
 
 [[files]]
@@ -448,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/iammusicplayer.pw.toml"
-hash = "ee0931dbaa17082ab96d2d43e5c952fa6df87536aa31b65f042392fd464f10d3"
+hash = "53d22ee0d34f2b154daf9e913ba3eecdaef21aa1dddcb4c9a4090e8e2f6362be"
 metafile = true
 
 [[files]]
@@ -508,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "6565b62cadb7fe868a1c10d7f71e813d0f634e9ef0c93869a0e04a65bcbe58c9"
+hash = "9f56e5002a121c2f3732f9d12dda7765a0101e1edc66e8ef2052bf2c89f53676"
 metafile = true
 
 [[files]]
@@ -552,23 +590,28 @@ hash = "36b3da73d8ce3dfaa5c9a5dae7db10df3ee25f0d32cff6e1cde5407c5e6f271f"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "313e8d86888699c1b31c8440938b7512171ad7f123f0ef4689878f933eff188e"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ad64853eb5ba56dc6e4b1bb9214dbfe28e2a0c865dc76b4b77edee0f11adceff"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "09093d3dcc33afc18bca07d38b98a87ca4fd33e41f8d7f9e896f28546804e09f"
+hash = "2c4e8ac34adbe283cdc07263c1d8bc3efee760c8f444f0b3afc7d86122e77240"
 metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "0653d9fb6e5bfd481799866017711867e4e75cf0c8a428b66019e5bb87d4b260"
+hash = "8b4b08468d97ac14aac88e22f180c5b403576a3b5da889a03c9a6d2a86b98464"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "710975d27cc68e448e010aa2c26a6b3294fc539cc74a7ff6ab5eba1c04f95ae0"
+hash = "cdf4086807948056bc41b09f08fd49f891ae9389b267d0da5d039532a58cc1a6"
 metafile = true
 
 [[files]]
@@ -628,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/passive-skill-tree.pw.toml"
-hash = "1e4e3ce53ff694eb9409882a2bf52244d56d4f11b2651eacaa755a73126c92e4"
+hash = "ab5c8f5cfd7997e55aa5601f4f26c957ea30562720ebedeacb34f59e158a54b4"
 metafile = true
 
 [[files]]
@@ -683,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "4ff2c897f7e25fb40a1414ea4a9bfec475b4d8562c0d8e7716e1c17abe472711"
+hash = "a4515fde53767771712eee4d94099fa60d6c6ef81405e615398a22ad2ce85e4c"
 metafile = true
 
 [[files]]
@@ -698,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f597d4145e29c4bea983974ba90476d86ce5ff1b582a0a7ba497aa724f127e96"
+hash = "a04c73b23eba49fef3f5d487605426692fd74f36c50b7335ea2da501100083ae"
 metafile = true
 
 [[files]]
@@ -728,12 +771,12 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "bb626314a6687044ab5c6dcc00c50934eabee2181b160e41334dd37d31c1914a"
+hash = "dbc0f19dde15a4b82057005dc63da36988b028140f937e12558ad763b1037fca"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "04f66b35c49ff70a68788345fb1fa99758bb79ee1b37ba42614d25964c5adb8a"
+hash = "5cdd333cb241fc3d79cad8854f0b793fdcfcf93085a683d25c9131817883b9ea"
 metafile = true
 
 [[files]]
@@ -788,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "db7b91acddea7ea8e2550480ef7ee5b4599d9de6c50c10ee9309d15a756e4f3a"
+hash = "ee67e8558e1fb9b52fe1489731f0a746c9f175ba701eb9c87cb9cb7482435e59"
 metafile = true
 
 [[files]]
