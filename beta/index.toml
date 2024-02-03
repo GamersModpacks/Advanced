@@ -5,10 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "4d8f1b428672771c5fdcf5b769bcbd0f3632999845ba2342689efeef83f54282"
 
 [[files]]
-file = "changelog.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "5d4ebf1c83e189cc4b67a579f89fc473aded16d6487683dabafff261a944190f"
 
@@ -65,10 +61,6 @@ file = "config/fancymenu/assets/logo.png"
 hash = "58ccd74840228f2e85303f3431116cca8edf07e9cca91793ea84d7a6c6f999ce"
 
 [[files]]
-file = "config/fancymenu/assets/pointer.png"
-hash = "84931fc04a45de9f45f8aa1acfe794d130aeb8c6fc971a8c906532b07b91e9c6"
-
-[[files]]
 file = "config/fancymenu/custom_locals/framework/en_us.local"
 hash = "381460e7b402c3dcc551ad219d6a59554ee61d89355ca8c6495495545c1134b8"
 
@@ -82,11 +74,11 @@ hash = "10e9fa55347dee0a247a757ab71c3c0cb3d574465679aee5497ff4a513b5efea"
 
 [[files]]
 file = "config/fancymenu/custom_locals/meta/en_us.local"
-hash = "9e0875d6cbeb77378d3064d5e40c7fe50f78da1149f39cae5c4ee8c0aab55f0c"
+hash = "c11a736088eb2a748c1fd24c39ff4a91020b7a781bd240452909eade8277226c"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "054143504abd3a44a67b7e9f71ef565d68aed428e941e5c4366b930061a88bb4"
+hash = "13a9016f6c230607b20e62877f2e40d21201014c1dcd0d0133f3b8df6ffee4d9"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -98,7 +90,7 @@ hash = "45f24960fbe8f7d234732e4913318bca5fdd76db3266519faf3568a935bf0cad"
 
 [[files]]
 file = "config/fancymenu/customization/ingame_menu.txt"
-hash = "399719a53b8423e646e791bc85fc3b76b67f32190d4586b89aa4698be9ca16b0"
+hash = "3a34812c7753224a4f5b77de868e22ca4d166edd93abec9da047295e46802ca8"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
@@ -174,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/translations-for-sodium.pw.toml"
-hash = "20b5ebfa31f5f27b7d7eb68dd06578f29b8e0486e4193e34b388a7826d1a8f1e"
+hash = "e7b21b10f431b46356c5c4dbaffb4dd5598024de7a5514ed1c232d2a5ee04dae"
 metafile = true
 
 [[files]]
@@ -611,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cdf4086807948056bc41b09f08fd49f891ae9389b267d0da5d039532a58cc1a6"
+hash = "6cea21f9b252211e03a127b50767583c3c40a070690647d5f5b6b5500b884935"
 metafile = true
 
 [[files]]
