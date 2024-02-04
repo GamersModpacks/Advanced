@@ -1,5 +1,9 @@
 # Changelog:
 
+### 1.8.0.1:
+- [Updated PackFramework](https://github.com/Den4enko/PackFramework/blob/forge/1.19.2/config/fancymenu/assets/changelog.md#251)
+to 2.5.1
+
 ### 1.8:
 - [Updated PackFramework](https://github.com/Den4enko/PackFramework/blob/forge/1.19.2/config/fancymenu/assets/changelog.md#25)
 to 2.5
