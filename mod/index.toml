@@ -1,6 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/autoleveling-common.toml"
+
+[[files]]
 file = "config/coldsweat/client.toml"
 
 [[files]]
@@ -34,10 +37,18 @@ file = "config/openloader/advanced_options.json"
 file = "config/openloader/data/Create Airship Recipes Custom.zip"
 
 [[files]]
+file = "config/openloader/data/create-immersive-aircrafts-data-pack.pw.toml"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/ModPack Resources/assets/curios/textures/gui/inventory.png"
 
 [[files]]
 file = "config/openloader/resources/ModPack Resources/pack.png"
+
+[[files]]
+file = "config/openloader/resources/create-immersive-aircrafts-resource-pack.pw.toml"
+metafile = true
 
 [[files]]
 file = "config/openloader/resources/eureka-create-airships.pw.toml"
@@ -102,6 +113,14 @@ file = "mods/blockui.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 metafile = true
 
@@ -127,6 +146,10 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
 metafile = true
 
 [[files]]
@@ -174,6 +197,10 @@ file = "mods/eureka-ships.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fantasys-furniture.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 metafile = true
 
@@ -187,6 +214,10 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gliders.pw.toml"
 metafile = true
 
 [[files]]
@@ -215,10 +246,6 @@ metafile = true
 
 [[files]]
 file = "mods/interactive.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
 metafile = true
 
 [[files]]
@@ -259,10 +286,6 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/mrcrayfish-furniture-mod.pw.toml"
 metafile = true
 
 [[files]]
@@ -307,6 +330,10 @@ metafile = true
 
 [[files]]
 file = "mods/pollution-of-the-realms.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
 metafile = true
 
 [[files]]
