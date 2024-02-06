@@ -46,7 +46,7 @@ hash = "34daa909eb4e7674f9266122ea7d011767e41438a3c3e4b2b1bed0217b4b2172"
 
 [[files]]
 file = "config/fancymenu/assets/changelog.md"
-hash = "7d8a9345524437747e6f413935f1a95adaa830bda381940097e1a4496ffa5c73"
+hash = "10bbd42f4f9e58e99f783afb337729827acf0b6020e7c19a70784aa33b87e876"
 
 [[files]]
 file = "config/fancymenu/assets/icon.icns"
@@ -82,7 +82,7 @@ hash = "fb6a065fc3f6630e9be17f3ffe4818461626638ccc17d80edf89610a0f5f37a5"
 
 [[files]]
 file = "config/fancymenu/custom_locals/mod/en_us.local"
-hash = "1d1662ec01402278985721275769b5618f21096a154fcd0056b0b71532ead969"
+hash = "1733724a62bcda91e80ce05691f0b5ccaddc308d769d371e2af0f5a9ebfee55b"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "4c9612b5226795abf32c937579a96531a0e5894a97780d92d1b98bcc8318e620"
+hash = "55d353710a1505a5c7e3cb38ab3c6055d59ade16342bb6b44664557b4cb8bc6b"
 metafile = true
 
 [[files]]
