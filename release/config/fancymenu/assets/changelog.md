@@ -1,5 +1,8 @@
 # Changelog:
 
+### 1.9.HF1:
+- Downgraded Immersive Aircraft
+
 ### 1.9:
 - [Updated PackFramework](https://github.com/Den4enko/PackFramework/blob/forge/1.19.2/config/fancymenu/assets/changelog.md#252)
 to 2.5.2
